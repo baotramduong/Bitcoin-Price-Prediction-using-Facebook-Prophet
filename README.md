@@ -2,7 +2,7 @@
 
 ## Blog
 
-[Medium Blog]()
+[Medium Blog](https://baotramduong.medium.com/bitcoin-price-prediction-using-facebook-prophet-b1b11c8dde2f)
 
 ## Introduction
 
@@ -25,6 +25,10 @@
 * Build LSTM RNN network to predict Bitcoin price minute-hour.
 
 * Incorporate other features besides price: technical/ blockchain-based, sentiment/interest-based, and asset-based features.
+
+* Other approaches: Generalized AutoRegressive Conditional Heteroscedasticity (GARCH) (Naimy & Hayek, 2018), Autoregressive Integrated Moving Average (ARIMA) (Sutiksno et al., 2018), Fast Wavelet Transform (Stocchi & Marchesi, 2018), etc.
+
+* Predict other cryptocurrencies i.e. Ethereum, Litecoin, Ripple and Cardano, etc.
      
 ## Reference
 
